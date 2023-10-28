@@ -1,0 +1,6 @@
+IDF	ID	Quantidade
+ID001	6	4
+ID001	5	5
+ID003	2	2
+ID004	3	2
+ID002	1	3
